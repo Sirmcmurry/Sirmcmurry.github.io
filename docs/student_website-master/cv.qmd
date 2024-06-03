@@ -34,5 +34,16 @@ title: "Curriculum Vitae (or CV for short)"
 
 2020-2021 Segal Americorps Education Award - *Americorps* An award for successful completion of a 10 and half month volunteer program with Americorps
 
-2020 Outstanding Student Research Award in Linguistics - *Cleveland State Univeristy* Award for demonstration exceptional research in Linguistics
+2020 Outstanding Student Research Award in Linguistics - *Cleveland State University* Award for demonstration exceptional research in Linguistics
 
+\
+
+### Service
+
+May 2024 Moderator of Innovative Approaches in Language Research - *Cluster on Language Research - UC Davis*
+
+\
+
+### Technical Skills
+
+Programming Languages - R, Python
