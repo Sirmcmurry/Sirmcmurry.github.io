@@ -4,6 +4,6 @@ title: "Ryan C. McMurry"
 
 ![](images/PXL_20240401_004055674.PORTRAIT~2%20(1).jpg){width="320"}
 
-Hello! I am a first year PhD student in Linguistics at the University of California, Davis. I focus on phonetics and Natural Language Processing. I'm chiefly interested in how social identities affect speech production and perception and coding large language models to make them more accessible. Currently, I am documenting the vowel space and prosody of Black California speakers of American English and fine-tuning existing language models to generate different styles of text.
+Hello! I am a second year PhD student in Linguistics at the University of California, Davis. I focus on phonetics and Natural Language Processing. I'm chiefly interested in how social identities affect speech production and perception and coding large language models to make them more accessible. Currently, I am documenting the vowel space of Black speakers of American English and fine-tuning existing language models to generate different styles of text.I am also a blossoming statistician and I am honeing my skills in R. 
 
 I was born and raised in Oklahoma and found myself living abroad and in various parts of the United States. When I'm not doing school work, you'll find me playing my Nintendo Switch (Pokemon battle anyone?), traveling, and baking breads. If you have any questions or are interested in collaboration hit me up!
