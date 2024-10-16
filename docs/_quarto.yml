@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: Research.qmd
+        text: Research
       - href: cv.qmd
         text: CV
       - href: How (Not) to do Research Blog.qmd
@@ -15,8 +17,7 @@ website:
         text: How to (Almost) Travel like a Local
       - href: Grad School Survival Guide.qmd
         text: Grad School Survival Guide
-      - href: Research.qmd
-        text: Research
+      
 format:
   html:
     theme: superhero
