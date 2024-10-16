@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Posts.qmd
+      - href: posts.qmd
         text: Research
       - href: cv.qmd
         text: CV
